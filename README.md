@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! 👋
+
 I’m Jiya Patel, a Computer Science student based in Ontario, Canada. My pronouns are she/her. Welcome to my GitHub profile!
 
 **About Me**
