@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there! 👋
+I’m Jiya Patel, a Computer Science student based in Ontario, Canada. My pronouns are she/her. Welcome to my GitHub profile!
+
+About Me
+🎨 I have a passion for arts and love expressing my creativity through various mediums.
+🎶 Music is my constant companion, whether I’m coding or relaxing.
+🏊‍♀️ I enjoy swimming and find it a great way to stay active and unwind.
+🌍 Travelling is my way of exploring new cultures and gaining fresh perspectives.
+Currently Learning
+🐍 Python: Diving into the world of programming with Python.
+☕ Java: Exploring object-oriented programming and building robust applications.
+📊 Data Science with Python: Analyzing data and uncovering insights using Python.
